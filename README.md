@@ -36,22 +36,22 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<table border="0" align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/C.png?raw=true" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/numpy_logo_icon_168071.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/C.png?raw=true" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/numpy_logo_icon_168071.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" width="50"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Matplotlib.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Seaborn--Streamline-Svg-Logos.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Anaconda.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/intellij_pycharm_alt_macos_bigsur_icon_190054.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Linux.png" width="50"></td>
-    <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Matplotlib.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Seaborn--Streamline-Svg-Logos.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Anaconda.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/intellij_pycharm_alt_macos_bigsur_icon_190054.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Linux.png" width="50"></td>
+    <td style="border: none;"><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" width="50"></td>
   </tr>
 </table>
 
