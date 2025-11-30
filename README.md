@@ -1,4 +1,7 @@
-
+<h3 align="center">Fallen from my peak, but not forgotten. Debugging my life the same way I debug my code — until I rise again.</h3>
+</br>
+</br>
+</br>
 # About ME 💬 :
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.
@@ -20,7 +23,7 @@
 </br>
 </br>
 
-<h3 align="center">Fallen from my peak, but not forgotten. Debugging my life the same way I debug my code — until I rise again.</h3>
+
 </br>
 </br>
 </br>
