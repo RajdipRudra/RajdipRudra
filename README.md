@@ -1,4 +1,3 @@
-<img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/f261885b-91f1-45b8-9bb2-ee170ffda3bb" />
 
 <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/banner/alexandre-cabanel-painting-angel-fallen-angel-hd-wallpaper-03ea33eae8c5cc1dc8422e63b1883241.jpg" alt="banner">
 </br>
@@ -37,17 +36,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" alt="Pandas" width="90" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/numpy_logo_icon_168071.png" alt="numpy" width="180" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" alt="python" width="60">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" alt="Pandas" width="60" >
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/numpy_logo_icon_168071.png" alt="numpy" width="60">
 </br>
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" alt="Jupyter-notebook" width="240" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" alt="Streamlit" width="100" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/intellij_pycharm_alt_macos_bigsur_icon_190054.png" alt="Pycharm" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" alt="Jupyter-notebook" width="60">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" alt="Streamlit" width="60">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/intellij_pycharm_alt_macos_bigsur_icon_190054.png" alt="Pycharm" width="60">
 </br>
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="60" >
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="60" >
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="60" >
 
 </p>
 </br>
