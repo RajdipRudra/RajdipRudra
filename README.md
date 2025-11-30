@@ -1,4 +1,12 @@
+
+
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/banner/wp12946387-the-fallen-angel-painting-wallpapers.jpg?raw=true" alt="banner">
+</br>
+</br>
+
 <h3 align="center">Fallen from my peak, but not forgotten. Debugging my life the same way I debug my code — until I rise again.</h3>
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -6,7 +14,7 @@
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.
 
-<img hight="250" width="400" alt="GIF" align="right" src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/gif/tenor%20(2).gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/gif/tenor%20(1).gif">
 
 ### - Learning :
 - ✨ Python
