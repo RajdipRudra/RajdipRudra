@@ -1,4 +1,4 @@
-
+<img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/f261885b-91f1-45b8-9bb2-ee170ffda3bb" />
 
 <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/banner/alexandre-cabanel-painting-angel-fallen-angel-hd-wallpaper-03ea33eae8c5cc1dc8422e63b1883241.jpg" alt="banner">
 </br>
@@ -37,12 +37,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/ico/python@2x.png" alt="python" width="120" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/ico/ai@2x.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/ico/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" alt="Pandas" width="90" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/numpy_logo_icon_168071.png" alt="numpy" width="180" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" alt="Jupyter-notebook" width="240" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" alt="Streamlit" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/intellij_pycharm_alt_macos_bigsur_icon_190054.png" alt="Pycharm" width="100" hight="50">
+</br>
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
+<img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Ubuntu.png?raw=true" alt="Ubuntu" width="100" hight="50">
 
 </p>
 </br>
