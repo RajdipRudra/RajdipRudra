@@ -36,7 +36,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<table>
+<table align="center">
   <tr>
     <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/python.png" width="50"></td>
     <td><img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/pandas_logo_icon_248897.png" width="50"></td>
