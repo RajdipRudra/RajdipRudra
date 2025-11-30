@@ -5,8 +5,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 # About ME 💬 :
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.
