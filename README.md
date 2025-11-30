@@ -41,7 +41,7 @@
   <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/jupyter_logo_icon_169452.png" width="50">&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Streamlit.png" width="50">
 </p>
-
+</br>
 <p align="center">
   <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Matplotlib.png" width="50">&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github2/ico/Seaborn--Streamline-Svg-Logos.png" width="50">&nbsp;&nbsp;&nbsp;
@@ -54,8 +54,7 @@
 
 </p>
 </br>
-</br>
-</br>
+
 
 
 
