@@ -6,7 +6,7 @@
 
 ### - I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/gif/tenor%20(2).gif">
+<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/gif/tenor%20(2).gif">
 
 ### - Learning :
 - ✨ Python
