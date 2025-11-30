@@ -2,8 +2,6 @@
 
 <img src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/banner/alexandre-cabanel-painting-angel-fallen-angel-hd-wallpaper-03ea33eae8c5cc1dc8422e63b1883241.jpg" alt="banner">
 </br>
-</br>
-
 <h3 align="center">Fallen from my peak, but not forgotten. Debugging my life the same way I debug my code — until I rise again.</h3>
 </br>
 </br>
