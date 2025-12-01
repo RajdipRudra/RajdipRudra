@@ -5,8 +5,8 @@
 </br>
 </br>
 
-<h3>About ME 💬 :</h3>
-<h4>- I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.</h4> 
+About ME 💬 :
+<p>- I'm 21 years  old Machine Learning & Artificial Intelligence Enthusiast.</p> 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/RajdipRudra/RajdipRudra/blob/main/github/gif/tenor%20(6).gif?">
 
